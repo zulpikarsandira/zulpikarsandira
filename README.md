@@ -1,4 +1,4 @@
-<img src="demo.gif" width="600">
+<img src="Hailuo_Video_A cinematic 2D animation with _485960755113177093.gif" width="600">
 # 💫 About Me:
 🛡️ Cybersecurity Engineer | Mobile Dev | SQA<br><br>I bridge the gap between development and security. I don't just write code; I break it to make it stronger.<br><br>🔍 Currently deep-diving into DevSecOps and Cloud Security.<br>🚀 Passionate about mobile performance and bug-free user experiences.<br>🛡️ My mission: Building a safer digital world, one commit at a time.<br>
 
